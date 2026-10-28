@@ -13,7 +13,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 # PAGE CONFIGURATION & SETUP
 # ==========================================
 st.set_page_config(
-    page_title="EduPro Predictive Intelligence Platform",
+    page_title="EduPro Analytics",
     page_icon="🎓",
     layout="wide",
     initial_sidebar_state="expanded"
